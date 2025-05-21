@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Bot-Live-brightgreen.svg)
+![Made with ❤️](https://img.shields.io/badge/Built%20by-Akshay%20Malhotra-red)
+
 # 📈 Stock Market News Alert Bot
 
 This bot tracks news about Indian stock markets and companies using specific keywords. It monitors:
